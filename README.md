@@ -21,15 +21,24 @@
 ### Функция "напиши":
 
 ```py
+import rupython
+from rupython import *
+
 напиши("Привет мир!")
 ```
 
 ### Функция "спросить":
 
 ```py
+import rupython
+from rupython import *
+
 спросить("Бим")
 
 ИЛИ
+
+import rupython
+from rupython import *
 
 спросить()
 ```
@@ -37,6 +46,9 @@
 ### Логические действия "if":
 
 ```py
+import rupython
+from rupython import *
+
 проверка(a == 11, напиши("Привет мир!"))
 ```
 
