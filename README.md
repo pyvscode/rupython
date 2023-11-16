@@ -1,5 +1,6 @@
 # RuPython
 Модуль для написания кода на русском языке, пытался сделать все как можно легко и понятно)
+https://github.com/KanatnikovMax/znanie-drevnix/blob/main/header/Ве_крест_крест.h
 
 ## Содержание
 
